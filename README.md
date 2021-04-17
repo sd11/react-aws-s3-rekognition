@@ -1,3 +1,5 @@
+Extension and clone of https://github.com/StevenCreates/react-file-aws
+
 # react-file-aws
 
 ## Intro
